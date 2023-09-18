@@ -1,6 +1,4 @@
 import axios from "axios";
-import Profile from "../Profile/Profile";
-import Register from "../Register/Register";
 
 /* eslint-disable react-hooks/rules-of-hooks */
 const { useContext, createContext, useState, useEffect } = require("react");
